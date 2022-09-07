@@ -1,4 +1,4 @@
-# mernbackendapp
+
 1.  create a new folder 'mernbackend' on your desktop
 2.  open that folder in vs code
 3.  open a cmd terminal
